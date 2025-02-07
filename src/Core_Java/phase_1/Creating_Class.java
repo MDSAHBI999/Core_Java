@@ -6,16 +6,12 @@ public class Creating_Class {
     public static String greet(String name) {
         return "Hey it's , " + name + "Here";
     }
-
-    int mult(int a ,int b ){
-        return a*b;
-    }
     float add(int a ,int b){
         return a + b ;
     }
     public static void main(String[] args){
 
-        String greeting = greet("MD ");
+        String greeting = greet(" Mohammed sahbi ");
         System.out.println(greeting);
 
         // Creating object for mult (multiplication)  in class Creating_Class .
