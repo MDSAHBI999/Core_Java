@@ -1,4 +1,4 @@
-package Core_Java.phase_1;
+package Core_Java.phase_1.Ex_of_DataTypes;
 
 public class Creating_Class {
 
