@@ -1,4 +1,4 @@
-package Core_Java.phase_1;
+package Core_Java.phase_1.Ex_of_DataTypes;
 
 public class range_of_int {
     public static void main (String[] agrs){
