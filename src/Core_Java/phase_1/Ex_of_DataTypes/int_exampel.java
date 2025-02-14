@@ -16,6 +16,7 @@ public class int_exampel {
             System.out.println("The city population :" + city_Population);
             System.out.println(" the pin code of city :" + pin_code);
             System.out.println(" The distance of moon from earth :" + earth_to_moon);
+            System.out.println(true+"10");
         }
     }
 }
