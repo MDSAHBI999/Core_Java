@@ -7,6 +7,11 @@ public class length_of_long {
         );
         System.out.println(
                 "length of Long :"+Long.MAX_VALUE
+        );System.out.println(
+                "length of Long :"+Long.MIN_VALUE
+        );
+        System.out.println(
+                "length of Long :"+Long.MAX_VALUE
         );
     }
 }

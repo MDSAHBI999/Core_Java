@@ -17,5 +17,11 @@ public class Practice_Array {
         System.out.println(states);
         System.out.println(unionTerritories);
         System.out.println(Arrays.toString(languages));  // Proper array printing
+        System.out.println(population);
+        System.out.println(country);
+        System.out.println(area);
+        System.out.println(states);
+        System.out.println(unionTerritories);
+        System.out.println(Arrays.toString(languages));  // Proper array printing
     }
 }

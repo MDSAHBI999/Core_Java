@@ -8,5 +8,11 @@ public class range_of_int {
         System.out.println(
                 "minimum range :"+Integer.MAX_VALUE
         );
+        System.out.println(
+                "minimum range :"+Integer.MIN_VALUE
+        );
+        System.out.println(
+                "minimum range :"+Integer.MAX_VALUE
+        );
     }
 }
