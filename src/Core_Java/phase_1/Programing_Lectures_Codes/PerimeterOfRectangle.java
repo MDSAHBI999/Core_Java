@@ -4,9 +4,9 @@ public class PerimeterOfRectangle {
     public static void main(String[] args) {
         var a = 34;
         var b = 45;
-        var permeter = 2*(a+b);
+        var perimeter = 2*(a+b);
         System.out.println("\n");
-        System.out.println("The perimeter of rectangle of "+ permeter);
+        System.out.println("The perimeter of rectangle of "+ perimeter);
 
     }
 }
