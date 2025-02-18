@@ -1,8 +1,6 @@
 package Core_Java.phase_1.Programing_Lectures_Codes;
 
-import java.util.SortedMap;
-
-public class arithmatic_operation_in {
+public class IN_arithmatic_operation {
     public static void main(String[] args) {
         int a = 5 ;
         if (a%2 == 0){
