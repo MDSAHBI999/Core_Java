@@ -1,0 +1,10 @@
+class SwitchExample1
+{
+public stitic void main (String[] args)
+{
+byte a = 127;
+switch(a)
+{
+}
+}
+}
