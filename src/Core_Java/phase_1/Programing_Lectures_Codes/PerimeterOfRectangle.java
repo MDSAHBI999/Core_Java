@@ -7,6 +7,7 @@ public class PerimeterOfRectangle {
         var perimeter = 2*(a+b);
         System.out.println("\n");
         System.out.println("The perimeter of rectangle of "+ perimeter);
+        System.out.println("");
 
     }
 }
