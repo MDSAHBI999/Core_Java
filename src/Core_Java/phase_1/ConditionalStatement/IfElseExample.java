@@ -1,4 +1,4 @@
-package Core_Java.phase_1.Shri_HM;
+package Core_Java.phase_1.ConditionalStatement;
 
 public class IfElseExample {
     public static void main(String[] args) {
