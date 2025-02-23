@@ -10,7 +10,7 @@ public class InScannerEx1{
         String name = sc.next();
 
         System.out.println("enter the phone number :");
-        Long  Phone_no  = sc.nextLong();
+        long  Phone_no  = sc.nextLong();
 
         System.out.println("enter the weight  :");
         float weight    = sc.nextFloat();
