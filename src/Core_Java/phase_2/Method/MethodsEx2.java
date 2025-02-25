@@ -1,4 +1,4 @@
-package Core_Java.phase_2;
+package Core_Java.phase_2.Method;
 //Create a Method AddNumbers that takes two integers and returns their sum. Call it with different values.
 
 
@@ -15,7 +15,6 @@ public class MethodsEx2 {
         static  int add(int a) {
             return a ;
         }
-
 
 
         public static void main(String[] args) {
