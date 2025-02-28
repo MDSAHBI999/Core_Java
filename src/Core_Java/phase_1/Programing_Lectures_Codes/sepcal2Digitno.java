@@ -7,4 +7,4 @@ public class sepcal2Digitno {
 // WAP to find smallest and biggest  number
 // WAJP to find perfect number
 // find count of even and odd digit from the number
-//
+//wap aj java program  to take 3 different int and print it in ascending  order .
